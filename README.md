@@ -8,7 +8,7 @@ Modern marketing agency landing page built with Next.js. Responsive design with 
 * TypeScript
 
 📌 How to run locally?
-1. `git clone https://github.com/DaylightCode/positivuslanding.git` `cd positivuslanding`
+1. `git clone https://github.com/DaylightCode/Positivus-Landing.git` `cd Positivus-Landing`
 2. `npm install`
 3. `npm run dev`
 
