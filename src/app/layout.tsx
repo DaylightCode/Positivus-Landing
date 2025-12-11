@@ -9,7 +9,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <title></title>
-      <body className={spaceGrotesk.className}>
+      <body className={`${spaceGrotesk.className} overflow-x-hidden max-w-full`}>
         {children}
       </body>
     </html>
